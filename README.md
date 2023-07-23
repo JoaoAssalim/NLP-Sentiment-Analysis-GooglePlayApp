@@ -6,5 +6,8 @@ This is a simple NLP project, it was made to get sentiment analysis from users a
 
 - scrape informations about any google play store app
 - clean and translate informations to English
+- tokenization
+- remove stopwords
+- lemmatizer
 - get sentiment analysis.
-- plot
+- plot in bar
